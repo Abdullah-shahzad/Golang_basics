@@ -70,18 +70,14 @@ Type Switches
 Make sure Go is installed on your machine.
 
 Clone the repository:
-
-bash
-Copy
-Edit
+----------------------------------------------------------------
 git clone https://github.com/Abdullah-shahzad/Golang_basics.git
 cd Golang_basics
+----------------------------------------------------------------
 Run any .go file using:
-
-bash
-Copy
-Edit
+-----------------------
 go run path/to/file.go
+-----------------------
 💡 Purpose
 This repository is intended for:
 
