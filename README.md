@@ -38,3 +38,58 @@ Golang_basics/
 │   │   └── type_switch.go
 │   └── type_assertion/
 │       └── type_a.go
+
+✨ Topics Covered
+✅ Basic Concepts
+Arrays
+
+Slices
+
+Structs
+
+Functions
+
+For Loops
+
+Conditional Statements (if, switch, select)
+
+Error Handling (defer, panic, recover)
+
+✅ Advanced Concepts
+Goroutines
+
+Channels
+
+Interfaces
+
+Type Assertions
+
+Type Switches
+
+📌 How to Run
+Make sure Go is installed on your machine.
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Abdullah-shahzad/Golang_basics.git
+cd Golang_basics
+Run any .go file using:
+
+bash
+Copy
+Edit
+go run path/to/file.go
+💡 Purpose
+This repository is intended for:
+
+Beginners learning Golang from scratch
+
+Intermediate developers reviewing core and concurrent features
+
+Interview preparation and reference
+
+📬 Contributions
+Pull requests are welcome! If you'd like to improve examples or add new topics, feel free to fork and open a PR.
